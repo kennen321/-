@@ -19,3 +19,4 @@ def quick_sort(list):
    little = quick_sort(little)
     large = quick_sort(large)
     return little + middle + large
+
