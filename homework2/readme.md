@@ -1,6 +1,6 @@
 #   堆積排序法(Heap Sort) 
   
-## efinition(MAX HEAP) 
+## Definition(MAX HEAP) 
   
 ● 堆積的節點只有兩個子節點，從左到右排序下來 
 
