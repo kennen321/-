@@ -19,4 +19,15 @@
 [參考資料](https://tingtseng.pixnet.net/blog/post/39924871-algorithm-time-complexity-%E6%BC%94%E7%AE%97%E6%B3%95%E6%99%82%E9%96%93%E8%A4%87%E9%9B%9C%E5%BA%A6%E6%95%B4%E7%90%86)
 
 
-![](https://github.com/kennen321/DSA2019/blob/master/homework2/heapsort%2Cmergesort%E6%AF%94%E8%BC%83.png)
+#   合併排序法(Merge Sort)
+
+## Definition
+
+● Merge Sort 的核心觀念是將大筆資料切割成很多資料做排序
+
+● 將陣列分割直到只有一個元素。
+
+● 開始兩兩合併，每次合併同時進行排序，合併出排序過的陣列。
+
+● 接著利用已經排序好的小筆資料合併成排序好的大筆資料。
+
