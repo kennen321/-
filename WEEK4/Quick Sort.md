@@ -7,3 +7,5 @@ Quick Sort(快速排序法)是一種「把大問題分成小問題處理」的Di
 接著，將所有在pivot左邊的數視為「新的數列」，所有在pivot右邊的數視為「另一個新的數列」，
 
 「分別」重複上述步驟(選pivot、調整數列)，直到分不出「新的數列」為止。
+
+! [image] C:\Users\Administrator\Desktop\Quicksort流程圖.png
