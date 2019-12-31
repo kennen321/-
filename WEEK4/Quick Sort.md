@@ -54,5 +54,7 @@ Insertion Sort(插入排序作法)
 參考資料:
 
 https://emn178.pixnet.net/blog/post/88613503-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%E6%B3%95(quick-sort)
+
 http://notepad.yehyeh.net/Content/Algorithm/Sort/Quick/Quick.php
+
 https://emn178.pixnet.net/blog/post/93791164
