@@ -36,14 +36,30 @@ remove：移除某一個節點。
 
 size：取得串列的數目。
 
-連結串列也有許多種類，這邊實作兩種基本的連結串列版本：
+
+### 優點：
+
+新增/刪除資料較Array簡單，只要對O(1)個node(所有與欲新增/刪除的node有pointer相連的node)調整pointer即可，
+
+不需要如同Array般搬動其餘元素。
+
+若是在Linked list的「開頭」新增node，只要O(1)。
+
+若要刪除特定node，或者在特定位置新增node，有可能需要先執行O(N)的「搜尋」。
+
+Linked list的資料數量可以是動態的，不像Array會有resize的問題。
+
+### 缺點：
 
 
+因為Linked list沒有index，若要找到特定node，需要從頭(ListNode *first)開始找起，搜尋的時間複雜度為O(N)。
 
-
+需要額外的記憶體空間來儲存pointer。
 
 
 
 
 
 參考資料: https://emn178.pixnet.net/blog/post/93557502
+
+http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html
