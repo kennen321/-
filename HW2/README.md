@@ -1,6 +1,6 @@
 ## HW2作業
 
-我會為您介紹
+我會即將為您介紹
 
 heap sort&merge sort原理
 
