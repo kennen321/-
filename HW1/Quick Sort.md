@@ -25,19 +25,7 @@ Quick Sort(快速排序法)是一種「把大問題分成小問題處理」的Di
 
 
 
-## Insertion Sort
-Insertion Sort(插入排序作法)
-插入排序法(Insertion Sort)是排序演算法的一種，他是一種簡單容易理解的排序演算法，其概念是利用另一個數列來存放已排序部分，
 
-逐一取出未排序數列中元素，從已排序數列由後往前找到適當的位置插入。運算流程如下：
-
-從未排序數列取出一元素。
-
-由後往前和已排序數列元素比較，直到遇到不大於自己的元素並插入此元素之後；若都沒有則插入在最前面。
-
-重複以上動作直到未排序數列全部處理完成。
-
-![image](https://github.com/kennen321/DSA2019/blob/master/homework/insertion%20sort.png)
 
 
 
@@ -57,4 +45,4 @@ https://emn178.pixnet.net/blog/post/88613503-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8
 
 http://notepad.yehyeh.net/Content/Algorithm/Sort/Quick/Quick.php
 
-https://emn178.pixnet.net/blog/post/93791164
+
