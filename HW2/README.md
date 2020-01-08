@@ -2,7 +2,7 @@
 
 我會為您介紹
 
-heap sort&merge sort介紹
+heap sort&merge sort原理
 
 heap sort&merge sort流程圖
 
