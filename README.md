@@ -12,13 +12,39 @@
 
 ## 課堂進度&筆記:
 
-Week2:LinkedList
+## Week1:
+- 放假
 
-Week3:Stack & Queue
+## Week2:LinkedList
 
-Week4:Insertion Sort
+## Week3:Stack & Queue
 
-Week5:
+## Week4:Insertion Sort
 
+## Week5:
 
+## Week6:
 
+## Week7:
+
+## Week8:
+
+## Week9:
+
+## Week10:
+
+## Week11:
+
+## Week12:
+
+## Week13:
+
+## Week14:
+
+## Week15:
+
+## Week16:
+
+## Week17:
+
+## Week18:
