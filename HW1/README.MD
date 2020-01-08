@@ -1,8 +1,8 @@
 ## HW1作業
 
-當中會有
+我會為您介紹
 
-quicksort介紹
+quicksort原理
 
 quicksort流程圖
 
