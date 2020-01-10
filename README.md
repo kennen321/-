@@ -12,41 +12,68 @@
 
 ## 課堂進度&筆記:
 
-## Week1:
+## Week1:09月 9日 - 09月 15日
 - 放假
 
-## Week2:LinkedList
+## Week2:09月 16日 - 09月 22日
+- LinkedList
 
-## Week3:Stack & Queue
+## Week3:09月 23日 - 09月 29日
+- Stack & Queue
 
-## Week4:Insertion Sort
+## Week4:09月 30日 - 10月 6日
+- InsertionSort & QuickSort
 
-## Week5:
+## Week5:10月 7日 - 10月 13日
 - 放假
 
-## Week6:
+## Week6:10月 14日 - 10月 20日
+- Heap Sort
 
-## Week7:
 
-## Week8:
+## Week7:10月 21日 - 10月 27日
+- Merge Sort
 
-## Week9:
 
-## Week10:
+## Week8:10月 28日 - 11月 3日
+- Binary Tree
 
-## Week11:
 
-## Week12:
+## Week9:11月 4日 - 11月 10日
+- Binary Search Tree
 
-## Week13:
 
-## Week14:
+## Week10:11月 11日 - 11月 17日
+- Red Black Tree
 
-## Week15:
 
-## Week16:
+## Week11:11月 18日 - 11月 24日
+- Hash Table
 
-## Week17:
 
-## Week18:
+## Week12:11月 25日 - 12月 1日
+- Breadth-First Search
+
+
+## Week13:12月 2日 - 12月 8日
+- Depth-First Search
+
+
+## Week14:12月 9日 - 12月 15日
+- Minimum Spanning Tree
+
+
+## Week15:12月 16日 - 12月 22日
+- Shortest Path
+
+
+## Week16:12月 23日 - 12月 29日
+
+
+
+## Week17:12月 30日 - 01月 5日
+- 期末考
+
+
+## Week18:01月 6日 - 01月 12日
 - 放假
