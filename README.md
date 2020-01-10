@@ -60,6 +60,7 @@
 - Binary Search Tree
   
   [Binary Search Tree](https://github.com/kennen321/DSA2019/blob/master/HW3/BST%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%2C%E6%B5%81%E7%A8%8B%E5%9C%96%2C%E5%8E%9F%E7%90%86.ipynb)
+  
   [Binary Search Tree程式碼](https://github.com/kennen321/DSA2019/blob/master/HW3/binary_search_tree_06170183.py)
 ## Week10:11月 11日 - 11月 17日
 - Red Black Tree
