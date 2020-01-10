@@ -17,14 +17,18 @@
 
 ## Week2:09月 16日 - 09月 22日
 - LinkedList
+
 [LinkedList](https://github.com/kennen321/DSA2019/tree/master/WEEK2)
 
 ## Week3:09月 23日 - 09月 29日
 - Stack & Queue
+
 [Stack & Queue](https://github.com/kennen321/DSA2019/blob/master/WEEK3/Stack%20Queue.md)
 
 ## Week4:09月 30日 - 10月 6日
 - InsertionSort & QuickSort
+
+[InsertionSort & QuickSort](https://github.com/kennen321/DSA2019/blob/master/WEEK4/Quick%20Sort%26Insertion%20Sort.md)
 
 ## Week5:10月 7日 - 10月 13日
 - 放假
@@ -32,50 +36,58 @@
 ## Week6:10月 14日 - 10月 20日
 - Heap Sort
 
+(Heap Sort)
 
 ## Week7:10月 21日 - 10月 27日
 - Merge Sort
 
+()
 
 ## Week8:10月 28日 - 11月 3日
 - Binary Tree
 
+()
 
 ## Week9:11月 4日 - 11月 10日
 - Binary Search Tree
 
-
+()
 ## Week10:11月 11日 - 11月 17日
 - Red Black Tree
 
-
+()
 ## Week11:11月 18日 - 11月 24日
 - Hash Table
 
+()
 
 ## Week12:11月 25日 - 12月 1日
 - Breadth-First Search
 
+()
 
 ## Week13:12月 2日 - 12月 8日
 - Depth-First Search
 
+()
 
 ## Week14:12月 9日 - 12月 15日
 - Minimum Spanning Tree
 
+()
 
 ## Week15:12月 16日 - 12月 22日
 - Shortest Path
 
+()
 
 ## Week16:12月 23日 - 12月 29日
 - Review
-
+()
 
 ## Week17:12月 30日 - 01月 5日
 - 期末考
-
+()
 
 ## Week18:01月 6日 - 01月 12日
 - 放假
