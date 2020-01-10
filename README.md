@@ -78,4 +78,22 @@
 ## Week18:01月 6日 - 01月 12日
 - 放假
 ## 作品
+
+### 課堂作業
+
+[HW1](https://github.com/kennen321/DSA2019/tree/master/HW1)
+
+[HW2](https://github.com/kennen321/DSA2019/tree/master/HW2)
+
+[HW3](https://github.com/kennen321/DSA2019/tree/master/HW3)
+
+[HW4](https://github.com/kennen321/DSA2019/tree/master/HW4)
+
+[HW5](https://github.com/kennen321/DSA2019/tree/master/HW5)
+
+[HW6](https://github.com/kennen321/DSA2019/tree/master/HW6)
+
+### codesignal
 [codesignal](https://github.com/kennen321/DSA2019/tree/master/codesignal)
+### Leedcode
+[Leedcode](https://github.com/kennen321/DSA2019/tree/master/Leedcode)
