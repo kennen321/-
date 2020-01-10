@@ -18,7 +18,7 @@
 ## Week2:09月 16日 - 09月 22日
 - LinkedList
 
-[LinkedList](https://github.com/kennen321/DSA2019/tree/master/WEEK2)
+  [LinkedList](https://github.com/kennen321/DSA2019/tree/master/WEEK2)
 
 ## Week3:09月 23日 - 09月 29日
 - Stack & Queue
