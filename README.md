@@ -29,6 +29,8 @@
 - InsertionSort & QuickSort
 
   [InsertionSort & QuickSort](https://github.com/kennen321/DSA2019/blob/master/WEEK4/Quick%20Sort%26Insertion%20Sort.md)
+  
+  [QuickSort程式碼](https://github.com/kennen321/DSA2019/blob/master/HW1/quick%20sort_06170183.py)
 
 ## Week5:10月 7日 - 10月 13日
 - 放假
@@ -65,7 +67,7 @@
 ## Week10:11月 11日 - 11月 17日
 - Red Black Tree
 
-()
+  [InTro Red Black Tree](https://alrightchiu.github.io/SecondRound/red-black-tree-introjian-jie.html)
 ## Week11:11月 18日 - 11月 24日
 - Hash Table
 
