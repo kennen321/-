@@ -13,22 +13,25 @@
 ## 課堂進度&筆記:
 
 ## Week1:09月 9日 - 09月 15日
-- 放假
+
+- 老師介紹上課標準，課程大綱
+
+- 計分方式，環境說明
 
 ## Week2:09月 16日 - 09月 22日
 - LinkedList
 
-  [LinkedList](https://github.com/kennen321/DSA2019/tree/master/WEEK2)
+  [InTro LinkedList](https://github.com/kennen321/DSA2019/tree/master/WEEK2)
 
 ## Week3:09月 23日 - 09月 29日
 - Stack & Queue
 
-  [Stack & Queue](https://github.com/kennen321/DSA2019/blob/master/WEEK3/Stack%20Queue.md)
+  [InTro Stack & Queue](https://github.com/kennen321/DSA2019/blob/master/WEEK3/Stack%20Queue.md)
 
 ## Week4:09月 30日 - 10月 6日
 - InsertionSort & QuickSort
 
-  [InsertionSort & QuickSort](https://github.com/kennen321/DSA2019/blob/master/WEEK4/Quick%20Sort%26Insertion%20Sort.md)
+  [InTro InsertionSort & QuickSort](https://github.com/kennen321/DSA2019/blob/master/WEEK4/Quick%20Sort%26Insertion%20Sort.md)
   
   [QuickSort程式碼](https://github.com/kennen321/DSA2019/blob/master/HW1/quick%20sort_06170183.py)
 
@@ -38,14 +41,14 @@
 ## Week6:10月 14日 - 10月 20日
 - Heap Sort
 
-  [Heap Sort](https://github.com/kennen321/DSA2019/blob/master/HW2/heap_sort%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
+  [InTro Heap Sort](https://github.com/kennen321/DSA2019/blob/master/HW2/heap_sort%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
   
   [Heap Sort程式碼](https://github.com/kennen321/DSA2019/blob/master/HW2/heap_sort_06170183.py)
 
 ## Week7:10月 21日 - 10月 27日
 - Merge Sort
  
-  [Merge Sort](https://github.com/kennen321/DSA2019/blob/master/HW2/merge_sort%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
+  [InTro Merge Sort](https://github.com/kennen321/DSA2019/blob/master/HW2/merge_sort%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
  
   [Merge Sort程式碼](https://github.com/kennen321/DSA2019/blob/master/HW2/merge_sort_06170183.py)
  
@@ -61,7 +64,7 @@
 ## Week9:11月 4日 - 11月 10日
 - Binary Search Tree
   
-  [Binary Search Tree](https://github.com/kennen321/DSA2019/blob/master/HW3/BST%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%2C%E6%B5%81%E7%A8%8B%E5%9C%96%2C%E5%8E%9F%E7%90%86.ipynb)
+  [InTro Binary Search Tree](https://github.com/kennen321/DSA2019/blob/master/HW3/BST%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%2C%E6%B5%81%E7%A8%8B%E5%9C%96%2C%E5%8E%9F%E7%90%86.ipynb)
   
   [Binary Search Tree程式碼](https://github.com/kennen321/DSA2019/blob/master/HW3/binary_search_tree_06170183.py)
 ## Week10:11月 11日 - 11月 17日
@@ -71,7 +74,7 @@
 ## Week11:11月 18日 - 11月 24日
 - Hash Table
 
-  [Hash Table](https://github.com/kennen321/DSA2019/blob/master/HW4/hash%20table%20%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%8C%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
+  [InTro Hash Table](https://github.com/kennen321/DSA2019/blob/master/HW4/hash%20table%20%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%8C%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
   
   [Hash Table程式碼](https://github.com/kennen321/DSA2019/blob/master/HW4/hash_table_06170183.py)
 
@@ -88,23 +91,24 @@
 ## Week14:12月 9日 - 12月 15日
 - Minimum Spanning Tree
 
-  [Minimum Spanning Tree](https://github.com/kennen321/DSA2019/blob/master/HW6/Dijkstra%E3%80%81Kruskal%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb)
+  [InTro Minimum Spanning Tree](https://github.com/kennen321/DSA2019/blob/master/HW6/Dijkstra%E3%80%81Kruskal%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb)
 
 ## Week15:12月 16日 - 12月 22日
 - Shortest Path
 
-  [Shortest Path](https://github.com/kennen321/DSA2019/blob/master/HW6/Dijkstra%E3%80%81Kruskal%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb)
+  [InTro Shortest Path](https://github.com/kennen321/DSA2019/blob/master/HW6/Dijkstra%E3%80%81Kruskal%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb)
 
 ## Week16:12月 23日 - 12月 29日
-- Review
-()
+- Overview
+
 
 ## Week17:12月 30日 - 01月 5日
 - 期末考
-()
+
 
 ## Week18:01月 6日 - 01月 12日
 - 放假
+
 ## 作品
 
 ### 課堂作業
