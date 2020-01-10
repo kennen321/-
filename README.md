@@ -43,11 +43,11 @@
 ## Week7:10月 21日 - 10月 27日
 - Merge Sort
  
- [Merge Sort](https://github.com/kennen321/DSA2019/blob/master/HW2/merge_sort%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
+  [Merge Sort](https://github.com/kennen321/DSA2019/blob/master/HW2/merge_sort%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
  
- [Merge Sort程式碼](https://github.com/kennen321/DSA2019/blob/master/HW2/merge_sort_06170183.py)
+  [Merge Sort程式碼](https://github.com/kennen321/DSA2019/blob/master/HW2/merge_sort_06170183.py)
  
- [Heap Sort&Merge Sort比較](https://github.com/kennen321/DSA2019/blob/master/HW2/heap%20sort%26merge%20sort%E6%AF%94%E8%BC%83.ipynb)
+  [Heap Sort&Merge Sort比較](https://github.com/kennen321/DSA2019/blob/master/HW2/heap%20sort%26merge%20sort%E6%AF%94%E8%BC%83.ipynb)
 
 ## Week8:10月 28日 - 11月 3日
 - Binary Tree
