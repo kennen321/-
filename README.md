@@ -23,12 +23,12 @@
 ## Week3:09月 23日 - 09月 29日
 - Stack & Queue
 
-[Stack & Queue](https://github.com/kennen321/DSA2019/blob/master/WEEK3/Stack%20Queue.md)
+  [Stack & Queue](https://github.com/kennen321/DSA2019/blob/master/WEEK3/Stack%20Queue.md)
 
 ## Week4:09月 30日 - 10月 6日
 - InsertionSort & QuickSort
 
-[InsertionSort & QuickSort](https://github.com/kennen321/DSA2019/blob/master/WEEK4/Quick%20Sort%26Insertion%20Sort.md)
+  [InsertionSort & QuickSort](https://github.com/kennen321/DSA2019/blob/master/WEEK4/Quick%20Sort%26Insertion%20Sort.md)
 
 ## Week5:10月 7日 - 10月 13日
 - 放假
@@ -36,7 +36,7 @@
 ## Week6:10月 14日 - 10月 20日
 - Heap Sort
 
-(Heap Sort)
+  (Heap Sort)
 
 ## Week7:10月 21日 - 10月 27日
 - Merge Sort
