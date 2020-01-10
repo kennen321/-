@@ -17,9 +17,11 @@
 
 ## Week2:09月 16日 - 09月 22日
 - LinkedList
+[LinkedList](https://github.com/kennen321/DSA2019/tree/master/WEEK2)
 
 ## Week3:09月 23日 - 09月 29日
 - Stack & Queue
+[Stack & Queue](https://github.com/kennen321/DSA2019/blob/master/WEEK3/Stack%20Queue.md)
 
 ## Week4:09月 30日 - 10月 6日
 - InsertionSort & QuickSort
