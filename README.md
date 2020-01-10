@@ -114,7 +114,11 @@
 ## Week18:01月 6日 - 01月 12日
 - 放假
 
-## 作品
+## 作品、相關資料
+
+### CS50
+
+    [CS50](https://github.com/kennen321/DSA2019/tree/master/CS50)
 
 ### 課堂作業
 
@@ -131,9 +135,12 @@
 [HW6](https://github.com/kennen321/DSA2019/tree/master/HW6)
 
 ### Codesignal
-[Codesignal](https://github.com/kennen321/DSA2019/tree/master/codesignal)
+
+    [Codesignal](https://github.com/kennen321/DSA2019/tree/master/codesignal)
+
 ### Leedcode
-[Leedcode](https://github.com/kennen321/DSA2019/tree/master/Leedcode)
+
+    [Leedcode](https://github.com/kennen321/DSA2019/tree/master/Leedcode)
 
 ## 期末心得
 
