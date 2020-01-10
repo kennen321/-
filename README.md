@@ -56,8 +56,9 @@
 
 ## Week9:11月 4日 - 11月 10日
 - Binary Search Tree
-
-()
+  
+  [Binary Search Tree](https://github.com/kennen321/DSA2019/blob/master/HW3/BST%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%2C%E6%B5%81%E7%A8%8B%E5%9C%96%2C%E5%8E%9F%E7%90%86.ipynb)
+  [Binary Search Tree程式碼](https://github.com/kennen321/DSA2019/blob/master/HW3/binary_search_tree_06170183.py)
 ## Week10:11月 11日 - 11月 17日
 - Red Black Tree
 
@@ -65,27 +66,29 @@
 ## Week11:11月 18日 - 11月 24日
 - Hash Table
 
-()
+  [Hash Table](https://github.com/kennen321/DSA2019/blob/master/HW4/hash%20table%20%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%EF%BC%8C%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
+  
+  [Hash Table程式碼](https://github.com/kennen321/DSA2019/blob/master/HW4/hash_table_06170183.py)
 
 ## Week12:11月 25日 - 12月 1日
 - Breadth-First Search
 
-()
+  [BFS程式碼](https://github.com/kennen321/DSA2019/blob/master/HW5/BFS_06170183.py)
 
 ## Week13:12月 2日 - 12月 8日
 - Depth-First Search
 
-()
+  [DFS程式碼](https://github.com/kennen321/DSA2019/blob/master/HW5/BFS_06170183.py)
 
 ## Week14:12月 9日 - 12月 15日
 - Minimum Spanning Tree
 
-()
+  [Minimum Spanning Tree](https://github.com/kennen321/DSA2019/blob/master/HW6/Dijkstra%E3%80%81Kruskal%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb)
 
 ## Week15:12月 16日 - 12月 22日
 - Shortest Path
 
-()
+  [Shortest Path](https://github.com/kennen321/DSA2019/blob/master/HW6/Dijkstra%E3%80%81Kruskal%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.ipynb)
 
 ## Week16:12月 23日 - 12月 29日
 - Review
