@@ -93,7 +93,7 @@
 
 [HW6](https://github.com/kennen321/DSA2019/tree/master/HW6)
 
-### codesignal
-[codesignal](https://github.com/kennen321/DSA2019/tree/master/codesignal)
+### Codesignal
+[Codesignal](https://github.com/kennen321/DSA2019/tree/master/codesignal)
 ### Leedcode
 [Leedcode](https://github.com/kennen321/DSA2019/tree/master/Leedcode)
