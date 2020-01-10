@@ -80,14 +80,19 @@
 
 ## Week12:11月 25日 - 12月 1日
 - Breadth-First Search
-
+  
+  [InTro BFS](https://github.com/kennen321/DSA2019/blob/master/homework/BFS.ipynb)
+  
   [BFS程式碼](https://github.com/kennen321/DSA2019/blob/master/HW5/BFS_06170183.py)
 
 ## Week13:12月 2日 - 12月 8日
 - Depth-First Search
-
+  
+  [InTro DFS](https://github.com/kennen321/DSA2019/blob/master/homework/DFS.ipynb)
+  
   [DFS程式碼](https://github.com/kennen321/DSA2019/blob/master/HW5/BFS_06170183.py)
 
+  [BFS&DFS比較](https://github.com/kennen321/DSA2019/blob/master/homework/BFS%26DFS%E6%AF%94%E8%BC%83.ipynb)
 ## Week14:12月 9日 - 12月 15日
 - Minimum Spanning Tree
 
