@@ -118,7 +118,7 @@
 
 ### CS50
 
-    [CS50](https://github.com/kennen321/DSA2019/tree/master/CS50)
+   [CS50](https://github.com/kennen321/DSA2019/tree/master/CS50)
 
 ### 課堂作業
 
@@ -136,11 +136,11 @@
 
 ### Codesignal
 
-    [Codesignal](https://github.com/kennen321/DSA2019/tree/master/codesignal)
+   [Codesignal](https://github.com/kennen321/DSA2019/tree/master/codesignal)
 
 ### Leedcode
 
-    [Leedcode](https://github.com/kennen321/DSA2019/tree/master/Leedcode)
+   [Leedcode](https://github.com/kennen321/DSA2019/tree/master/Leedcode)
 
 ## 期末心得
 
